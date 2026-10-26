@@ -4,8 +4,8 @@
 [**中文**](README.md) | [English](README_EN.md)
 
 夸克网盘整合包：
-链接：https://pan.quark.cn/s/a066f57d7905?pwd=qW4m
-提取码：qW4m
+链接：https://pan.quark.cn/s/8268c09da51c?pwd=JLXU
+提取码：JLXU
 
 ## 📖 使用教程
 
