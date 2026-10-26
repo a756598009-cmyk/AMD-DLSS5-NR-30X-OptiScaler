@@ -9,10 +9,7 @@ Extraction code:qW4m
 ### 🔗 Tutorial
 
 - Video tutorial: [柠檬有多萌萌胧未可知 · 哔哩哔哩个人空间](https://space.bilibili.com/173069391?spm_id_from=333.1007.0.0)
-Version v7.1 is aligned with the MasamuneSAMA project's v1.9.6.3 
-https://github.com/TheAutomatic/dlss-5-amd-project/releases upstream release. Download the required files directly from the upstream project. Aligned with 0.5.0.
-Usage: download the v1.9.6.3-ZIP project archive from the upstream project above, then download the V6.1 version. Copy the V6.1 project files into the extracted v1.9.6.3-ZIP directory and overwrite the matching files. Then run `nm.bat`, click "Select Folder", choose the corresponding DLL injection method by number, press Enter, enter `3`, press Enter, enter `2`, press Enter, and finally enter `1` and press Enter.
-Copy all resulting files to the game's root directory. The remaining steps are essentially the same as the normal OptiScaler workflow.
+
 ---
 
 ### 🚀 Multi-Frame Generation Architecture
