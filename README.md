@@ -3,7 +3,7 @@
 
 [**中文**](README.md) | [English](README_EN.md)
 
-紫色中文版，AMD-DLSS5-NR-30X-OptiScaler安装器在这个项目中下载：
+紫色中文版，AMD-DLSS5-NR-30X-OptiScaler安装器在这个项目中下载：https://github.com/a756598009-cmyk/AMD-DLSS5-NR-30X-OptiScaler-installer
 
 夸克网盘整合包：
 链接：https://pan.quark.cn/s/8268c09da51c?pwd=JLXU
