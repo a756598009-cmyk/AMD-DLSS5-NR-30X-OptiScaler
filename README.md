@@ -1,5 +1,5 @@
 # AMD-DLSS5-NR-30X-OptiScaler
-中文：  专注于 OptiScaler XeFG 30 倍帧生成、DLSSG 6 倍帧生成、DLSS 5 神经渲染、光线重建与光线追踪重构技术，以及 FSR 4.1.3。  English:  Focused on OptiScaler XeFG 30x Frame Generation, DLSSG 6x Frame Generation, DLSS 5 Neural Rendering, Ray Reconstruction and Ray Tracing Reconstruction technologies, and FSR 4.1.3.
+中文：  专注于 OptiScaler XeFG 30 倍帧生成、DLSSG 6 倍帧生成、DLSS 5 神经渲染、光线重建与光线追踪重构技术，以及 FSR 4.1.2。  English:  Focused on OptiScaler XeFG 30x Frame Generation, DLSSG 6x Frame Generation, DLSS 5 Neural Rendering, Ray Reconstruction and Ray Tracing Reconstruction technologies, and FSR 4.1.2.
 
 [**中文**](README.md) | [English](README_EN.md)
 
@@ -28,7 +28,6 @@ FSR并关闭光线追踪，保存，然后重启游戏，然后在开启DLSS就�
 望月后端支持支持9000系，7000系，6000系
 丹尼尔后端支持9000系，7000系，6000系，不同游戏自行测试，使用方法与之前一致。
 【此版本加入了4种 xess 30倍帧生成】可以去我主页看使用教程。RX 6000（RDNA2）： 增加了对RX 6000系列（RDNA2）显卡的支持 RDNA2显卡需要安装AMD HIP 7.2运行时才能正常工作，可以从AMD官网下载（https://www.amd.com/en/developer/resources/rocm-hub/hip-sdk.html)
-加入了FSR4.1.2,FSR4.1.2pls
 ---
 默认用的0.8.0版本Hp后端，全中英文版本，用望月在游戏中切换成望月后端，保存后重启游戏，即可使用，望月支持7000系9000系。
 
